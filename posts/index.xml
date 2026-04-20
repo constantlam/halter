@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>📰 Nieuws on Z.A.C. De Halter</title>
-    <link>http://localhost:1313/halter/posts/</link>
+    <link>https://constantlam.github.io/halter/posts/</link>
     <description>Recent content in 📰 Nieuws on Z.A.C. De Halter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2026 Z.A.C. De Halter - ALLE RECHTEN VOORBEHOUDEN</copyright>
-    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/halter/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://constantlam.github.io/halter/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>📰 Halter atleten 1e en 2e</title>
-      <link>http://localhost:1313/halter/posts/2026-04-12-stoeitoernooi/</link>
+      <link>https://constantlam.github.io/halter/posts/2026-04-12-stoeitoernooi/</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/halter/posts/2026-04-12-stoeitoernooi/</guid>
+      <guid>https://constantlam.github.io/halter/posts/2026-04-12-stoeitoernooi/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Op zondag 12 april 2026 organiseerde Hercules Amsterdam haar jaarlijkse Stoeitoernooi. Onze twee junioren worstelatleten zijn in hun leeftijdscategorie  1&lt;sup&gt;e&lt;/sup&gt; en 2&lt;sup&gt;e&lt;/sup&gt; geworden!&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/halter/posts/2026-04-12-stoeitoernooi/featured-2026-04-12.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://constantlam.github.io/halter/posts/2026-04-12-stoeitoernooi/featured-2026-04-12.jpg" />
     </item>
     
     <item>
       <title>📰 De Halter erkend leerbedrijf</title>
-      <link>http://localhost:1313/halter/posts/2022-06-16-erkend-leerbedrijf/</link>
+      <link>https://constantlam.github.io/halter/posts/2022-06-16-erkend-leerbedrijf/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/halter/posts/2022-06-16-erkend-leerbedrijf/</guid>
+      <guid>https://constantlam.github.io/halter/posts/2022-06-16-erkend-leerbedrijf/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;De Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven (SBB) heeft de Zaanse Athleten Club De Halter (Z.A.C. de Halter) voor wederom vier jaar erkend als leerbedrijf.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/halter/posts/2022-06-16-erkend-leerbedrijf/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://constantlam.github.io/halter/posts/2022-06-16-erkend-leerbedrijf/featured.jpg" />
     </item>
     
   </channel>

@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Z.A.C. De Halter</title>
-    <link>http://localhost:1313/halter/tags/</link>
+    <link>https://constantlam.github.io/halter/tags/</link>
     <description>Recent content in Tags on Z.A.C. De Halter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2026 Z.A.C. De Halter - ALLE RECHTEN VOORBEHOUDEN</copyright>
-    <lastBuildDate>Thu, 07 Apr 2022 17:32:04 +0000</lastBuildDate><atom:link href="http://localhost:1313/halter/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 17:32:04 +0000</lastBuildDate><atom:link href="https://constantlam.github.io/halter/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AVG</title>
-      <link>http://localhost:1313/halter/tags/avg/</link>
+      <link>https://constantlam.github.io/halter/tags/avg/</link>
       <pubDate>Thu, 07 Apr 2022 17:32:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/halter/tags/avg/</guid>
+      <guid>https://constantlam.github.io/halter/tags/avg/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Club</title>
-      <link>http://localhost:1313/halter/tags/club/</link>
+      <link>https://constantlam.github.io/halter/tags/club/</link>
       <pubDate>Thu, 07 Apr 2022 17:32:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/halter/tags/club/</guid>
+      <guid>https://constantlam.github.io/halter/tags/club/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/halter/tags/privacy/</link>
+      <link>https://constantlam.github.io/halter/tags/privacy/</link>
       <pubDate>Thu, 07 Apr 2022 17:32:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/halter/tags/privacy/</guid>
+      <guid>https://constantlam.github.io/halter/tags/privacy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vereniging</title>
-      <link>http://localhost:1313/halter/tags/vereniging/</link>
+      <link>https://constantlam.github.io/halter/tags/vereniging/</link>
       <pubDate>Thu, 07 Apr 2022 17:32:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/halter/tags/vereniging/</guid>
+      <guid>https://constantlam.github.io/halter/tags/vereniging/</guid>
       <description></description>
       
     </item>
