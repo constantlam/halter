@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SPORTEN BIJ Z.A.C. DE HALTER on Z.A.C. De Halter</title>
-    <link>https://constantlam.github.io/halter/sporten/</link>
+    <link>http://localhost:1313/halter/sporten/</link>
     <description>Recent content in SPORTEN BIJ Z.A.C. DE HALTER on Z.A.C. De Halter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2026 Z.A.C. De Halter - ALLE RECHTEN VOORBEHOUDEN</copyright>
-    <lastBuildDate>Fri, 01 Mar 2024 20:37:04 +0000</lastBuildDate><atom:link href="https://constantlam.github.io/halter/sporten/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 20:37:04 +0000</lastBuildDate><atom:link href="http://localhost:1313/halter/sporten/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🥋 Sambo</title>
-      <link>https://constantlam.github.io/halter/sporten/sambo/</link>
+      <link>http://localhost:1313/halter/sporten/sambo/</link>
       <pubDate>Sat, 11 Apr 2015 20:39:36 +0000</pubDate>
       
-      <guid>https://constantlam.github.io/halter/sporten/sambo/</guid>
+      <guid>http://localhost:1313/halter/sporten/sambo/</guid>
       <description>&lt;p&gt;Recreatieve &lt;strong&gt;Sambo&lt;/strong&gt; is een opwindende sport die perfect is voor iedereen die op zoek is naar een leuke en uitdagende activiteit.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://constantlam.github.io/halter/sporten/sambo/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/halter/sporten/sambo/featured.png" />
     </item>
     
     <item>
       <title>🤼‍♂️ Worstelen</title>
-      <link>https://constantlam.github.io/halter/sporten/worstelen/</link>
+      <link>http://localhost:1313/halter/sporten/worstelen/</link>
       <pubDate>Sat, 11 Apr 2015 20:37:04 +0000</pubDate>
       
-      <guid>https://constantlam.github.io/halter/sporten/worstelen/</guid>
+      <guid>http://localhost:1313/halter/sporten/worstelen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Worstelen&lt;/strong&gt; in de vrije stijl is een opwindende en uitdagende sport die draait om kracht, snelheid en strategie.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://constantlam.github.io/halter/sporten/worstelen/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/halter/sporten/worstelen/featured.png" />
     </item>
     
     <item>
       <title>⛩️ Aikido</title>
-      <link>https://constantlam.github.io/halter/sporten/aikido/</link>
+      <link>http://localhost:1313/halter/sporten/aikido/</link>
       <pubDate>Fri, 01 Mar 2024 20:37:04 +0000</pubDate>
       
-      <guid>https://constantlam.github.io/halter/sporten/aikido/</guid>
+      <guid>http://localhost:1313/halter/sporten/aikido/</guid>
       <description>&lt;p&gt;Ontdek de kracht van &lt;strong&gt;Aikido&lt;/strong&gt; - de eeuwenoude Japanse krijgskunst die niet alleen je lichaam traint, maar ook je geest versterkt.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://constantlam.github.io/halter/sporten/aikido/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/halter/sporten/aikido/featured.png" />
     </item>
     
     <item>
       <title>🏃🏻 Conditie</title>
-      <link>https://constantlam.github.io/halter/sporten/conditie/</link>
+      <link>http://localhost:1313/halter/sporten/conditie/</link>
       <pubDate>Sun, 12 Apr 2015 07:13:34 +0000</pubDate>
       
-      <guid>https://constantlam.github.io/halter/sporten/conditie/</guid>
+      <guid>http://localhost:1313/halter/sporten/conditie/</guid>
       <description>&lt;p&gt;Blijf Fit op 50+: &lt;strong&gt;Conditie&lt;/strong&gt; training voor een Gezonde Levensstijl!&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://constantlam.github.io/halter/sporten/conditie/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/halter/sporten/conditie/featured.png" />
     </item>
     
     <item>
       <title>🏋️‍♀️ Fitness</title>
-      <link>https://constantlam.github.io/halter/sporten/fitness/</link>
+      <link>http://localhost:1313/halter/sporten/fitness/</link>
       <pubDate>Sat, 11 Apr 2015 20:40:53 +0000</pubDate>
       
-      <guid>https://constantlam.github.io/halter/sporten/fitness/</guid>
+      <guid>http://localhost:1313/halter/sporten/fitness/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Fitness&lt;/strong&gt; is een geweldige sport voor iedereen. Het draait niet alleen om gespierd zijn, maar ook om een gezonde levensstijl.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://constantlam.github.io/halter/sporten/fitness/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/halter/sporten/fitness/featured.png" />
     </item>
     
   </channel>

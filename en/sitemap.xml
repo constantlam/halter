@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://constantlam.github.io/halter/en/</loc>
+    <loc>http://localhost:1313/halter/en/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en-us"
-      href="https://constantlam.github.io/halter/"
+      href="http://localhost:1313/halter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://constantlam.github.io/halter/en/"
+      href="http://localhost:1313/halter/en/"
     />
   </url>
 </urlset>

@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Z.A.C. De Halter</title>
-    <link>https://constantlam.github.io/halter/categories/</link>
+    <link>http://localhost:1313/halter/categories/</link>
     <description>Recent content in Categories on Z.A.C. De Halter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2026 Z.A.C. De Halter - ALLE RECHTEN VOORBEHOUDEN</copyright>
-    <lastBuildDate>Sat, 18 Apr 2026 20:39:36 +0000</lastBuildDate><atom:link href="https://constantlam.github.io/halter/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2026 20:39:36 +0000</lastBuildDate><atom:link href="http://localhost:1313/halter/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Club</title>
-      <link>https://constantlam.github.io/halter/categories/club/</link>
+      <link>http://localhost:1313/halter/categories/club/</link>
       <pubDate>Sat, 18 Apr 2026 20:39:36 +0000</pubDate>
       
-      <guid>https://constantlam.github.io/halter/categories/club/</guid>
+      <guid>http://localhost:1313/halter/categories/club/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nieuws</title>
-      <link>https://constantlam.github.io/halter/categories/nieuws/</link>
+      <link>http://localhost:1313/halter/categories/nieuws/</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://constantlam.github.io/halter/categories/nieuws/</guid>
+      <guid>http://localhost:1313/halter/categories/nieuws/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Engage</title>
-      <link>https://constantlam.github.io/halter/categories/engage/</link>
+      <link>http://localhost:1313/halter/categories/engage/</link>
       <pubDate>Sat, 11 Apr 2026 20:39:36 +0000</pubDate>
       
-      <guid>https://constantlam.github.io/halter/categories/engage/</guid>
+      <guid>http://localhost:1313/halter/categories/engage/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://constantlam.github.io/halter/categories/contact/</link>
+      <link>http://localhost:1313/halter/categories/contact/</link>
       <pubDate>Fri, 01 Mar 2024 20:37:04 +0000</pubDate>
       
-      <guid>https://constantlam.github.io/halter/categories/contact/</guid>
+      <guid>http://localhost:1313/halter/categories/contact/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sporten</title>
-      <link>https://constantlam.github.io/halter/categories/sporten/</link>
+      <link>http://localhost:1313/halter/categories/sporten/</link>
       <pubDate>Fri, 01 Mar 2024 20:37:04 +0000</pubDate>
       
-      <guid>https://constantlam.github.io/halter/categories/sporten/</guid>
+      <guid>http://localhost:1313/halter/categories/sporten/</guid>
       <description></description>
       
     </item>

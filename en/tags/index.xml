@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Z.A.C. De Halter</title>
-    <link>https://constantlam.github.io/halter/en/tags/</link>
+    <link>http://localhost:1313/halter/en/tags/</link>
     <description>Recent content in Tags on Z.A.C. De Halter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>alle rechten voorbehouden</copyright>
-    <atom:link href="https://constantlam.github.io/halter/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/halter/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
